@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1855ba3d-bdd2-4f15-ac86-59f26d68c690" name="Default Changelist" comment="" />
+    <list default="true" id="1855ba3d-bdd2-4f15-ac86-59f26d68c690" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,6 +27,9 @@
     </option>
     <expand />
     <select />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
   <component name="ProjectId" id="1V1DierCaJZMe3hQi4gCS3SB6gP" />
@@ -97,6 +102,8 @@
       <workItem from="1580418944108" duration="131000" />
       <workItem from="1580504739790" duration="10000" />
       <workItem from="1581763683155" duration="171000" />
+      <workItem from="1581767206246" duration="44000" />
+      <workItem from="1581767278166" duration="133000" />
     </task>
     <servers />
   </component>
@@ -116,9 +123,9 @@
       <screen x="0" y="23" width="1440" height="837" />
     </state>
     <state x="15" y="23" width="1064" height="723" key="SettingsEditor/0.23.1440.837@0.23.1440.837" timestamp="1576536128950" />
-    <state x="706" y="295" key="com.intellij.ide.util.TipDialog" timestamp="1580504741065">
+    <state x="706" y="295" key="com.intellij.ide.util.TipDialog" timestamp="1581767207622">
       <screen x="0" y="23" width="1440" height="837" />
     </state>
-    <state x="706" y="295" key="com.intellij.ide.util.TipDialog/0.23.1440.837@0.23.1440.837" timestamp="1580504741065" />
+    <state x="706" y="295" key="com.intellij.ide.util.TipDialog/0.23.1440.837@0.23.1440.837" timestamp="1581767207622" />
   </component>
 </project>
