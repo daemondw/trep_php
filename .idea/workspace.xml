@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1855ba3d-bdd2-4f15-ac86-59f26d68c690" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectId" id="1V1DierCaJZMe3hQi4gCS3SB6gP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1855ba3d-bdd2-4f15-ac86-59f26d68c690" name="Default Changelist" comment="" />
+      <created>1576411835730</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576411835730</updated>
+      <workItem from="1576411836867" duration="613000" />
+      <workItem from="1576440297570" duration="52000" />
+      <workItem from="1576440401867" duration="4219000" />
+      <workItem from="1576454692672" duration="1639000" />
+      <workItem from="1576503337021" duration="1941000" />
+      <workItem from="1576536070590" duration="58000" />
+      <workItem from="1576536138418" duration="616000" />
+      <workItem from="1576597488480" duration="1137000" />
+      <workItem from="1576614031165" duration="1037000" />
+      <workItem from="1577467891669" duration="109000" />
+      <workItem from="1577468022507" duration="1040000" />
+      <workItem from="1577629069181" duration="51000" />
+      <workItem from="1577629131236" duration="5657000" />
+      <workItem from="1577892094121" duration="3432000" />
+      <workItem from="1578080487843" duration="156000" />
+      <workItem from="1578246827241" duration="11000" />
+      <workItem from="1578246846712" duration="128000" />
+      <workItem from="1578584351334" duration="198000" />
+      <workItem from="1578910045835" duration="16000" />
+      <workItem from="1578910069529" duration="148000" />
+      <workItem from="1578911002601" duration="171000" />
+      <workItem from="1579082480068" duration="606000" />
+      <workItem from="1579559494787" duration="116000" />
+      <workItem from="1579642157629" duration="356000" />
+      <workItem from="1579725714001" duration="320000" />
+      <workItem from="1579803638569" duration="729000" />
+      <workItem from="1579817020630" duration="2636000" />
+      <workItem from="1579820361120" duration="663000" />
+      <workItem from="1580418944108" duration="131000" />
+      <workItem from="1580504739790" duration="10000" />
+      <workItem from="1581763683155" duration="171000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="727" y="32" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1578910057152">
+      <screen x="0" y="23" width="1440" height="837" />
+    </state>
+    <state x="727" y="32" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1440.837@0.23.1440.837" timestamp="1578910057152" />
+    <state x="913" y="146" key="NewPhpFileDialog" timestamp="1579804077734">
+      <screen x="0" y="23" width="1440" height="837" />
+    </state>
+    <state x="913" y="146" key="NewPhpFileDialog/0.23.1440.837@0.23.1440.837" timestamp="1579804077734" />
+    <state x="15" y="23" width="1064" height="723" key="SettingsEditor" timestamp="1576536128950">
+      <screen x="0" y="23" width="1440" height="837" />
+    </state>
+    <state x="15" y="23" width="1064" height="723" key="SettingsEditor/0.23.1440.837@0.23.1440.837" timestamp="1576536128950" />
+    <state x="706" y="295" key="com.intellij.ide.util.TipDialog" timestamp="1580504741065">
+      <screen x="0" y="23" width="1440" height="837" />
+    </state>
+    <state x="706" y="295" key="com.intellij.ide.util.TipDialog/0.23.1440.837@0.23.1440.837" timestamp="1580504741065" />
+  </component>
+</project>
