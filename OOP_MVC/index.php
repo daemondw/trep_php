@@ -1,16 +1,6 @@
 <?php
-require_once 'Arr.php';
+require_once 'Date.php';
 
-$arr = new Arr();
+$firstDate = new Date('1946-04-27');
 
-$arr->add(2);
-$arr->add(5);
-$arr->add(4);
-$arr->add(8);
-$arr->add(3);
-
-$somevalue = new AvgHelper();
-
-
-
-echo $somevalue->getAvg([4,7,2,7,8,4]);
+echo $firstDate;

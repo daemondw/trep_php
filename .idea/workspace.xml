@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1855ba3d-bdd2-4f15-ac86-59f26d68c690" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_MVC/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/OOP_MVC/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,8 +33,11 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.4" />
   <component name="ProjectId" id="1V1DierCaJZMe3hQi4gCS3SB6gP" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -103,7 +108,8 @@
       <workItem from="1580504739790" duration="10000" />
       <workItem from="1581763683155" duration="171000" />
       <workItem from="1581767206246" duration="44000" />
-      <workItem from="1581767278166" duration="133000" />
+      <workItem from="1581767278166" duration="3476000" />
+      <workItem from="1581936058101" duration="3795000" />
     </task>
     <servers />
   </component>
@@ -111,21 +117,29 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="56" y="103" key="#CLI_Interpreters" timestamp="1581778511220">
+      <screen x="0" y="23" width="1440" height="837" />
+    </state>
+    <state x="56" y="103" key="#CLI_Interpreters/0.23.1440.837@0.23.1440.837" timestamp="1581778511220" />
+    <state x="7" y="184" width="671" height="450" key="#PHP" timestamp="1581778538510">
+      <screen x="0" y="23" width="1440" height="837" />
+    </state>
+    <state x="7" y="184" width="671" height="450" key="#PHP/0.23.1440.837@0.23.1440.837" timestamp="1581778538510" />
     <state x="727" y="32" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1578910057152">
       <screen x="0" y="23" width="1440" height="837" />
     </state>
     <state x="727" y="32" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1440.837@0.23.1440.837" timestamp="1578910057152" />
-    <state x="913" y="146" key="NewPhpFileDialog" timestamp="1579804077734">
+    <state x="913" y="146" key="NewPhpFileDialog" timestamp="1581938336989">
       <screen x="0" y="23" width="1440" height="837" />
     </state>
-    <state x="913" y="146" key="NewPhpFileDialog/0.23.1440.837@0.23.1440.837" timestamp="1579804077734" />
+    <state x="913" y="146" key="NewPhpFileDialog/0.23.1440.837@0.23.1440.837" timestamp="1581938336989" />
     <state x="15" y="23" width="1064" height="723" key="SettingsEditor" timestamp="1576536128950">
       <screen x="0" y="23" width="1440" height="837" />
     </state>
     <state x="15" y="23" width="1064" height="723" key="SettingsEditor/0.23.1440.837@0.23.1440.837" timestamp="1576536128950" />
-    <state x="706" y="295" key="com.intellij.ide.util.TipDialog" timestamp="1581767207622">
+    <state x="706" y="295" key="com.intellij.ide.util.TipDialog" timestamp="1581936059313">
       <screen x="0" y="23" width="1440" height="837" />
     </state>
-    <state x="706" y="295" key="com.intellij.ide.util.TipDialog/0.23.1440.837@0.23.1440.837" timestamp="1581767207622" />
+    <state x="706" y="295" key="com.intellij.ide.util.TipDialog/0.23.1440.837@0.23.1440.837" timestamp="1581936059313" />
   </component>
 </project>
