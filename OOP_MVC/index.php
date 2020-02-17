@@ -1,6 +1,8 @@
 <?php
 require_once 'Date.php';
 
-$firstDate = new Date('1946-04-27');
+$date = new Date('2025-12-31');
 
-echo $firstDate;
+echo $date->getYear();  // выведет '2025'
+echo $date->getMonth(); // выведет '12'
+echo $date->getDay();   // выведет '31'
